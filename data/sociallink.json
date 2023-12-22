@@ -1,0 +1,37 @@
+[
+    {
+      "name": "facebook",
+      "url": "#resume",
+      "className": "fa fa-facebook"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Masoud53486139",
+      "className": "fa fa-twitter"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/mesut-mirzai-186096187/",
+      "className": "fa fa-linkedin"
+    },
+    {
+      "name": "instagram",
+      "url": "http://instagram.com/",
+      "className": "fa fa-instagram"
+    },
+    {
+      "name": "Skype",
+      "url": "https://join.skype.com/invite/MYzhopjMBtwo",
+      "className": "fa fa-skype"
+    },
+    {
+      "name": "Whatsapp",
+      "url": "https://wa.me/93745157192",
+      "className": "fa fa-whatsapp"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/masoudmerzaye2020",
+      "className": "fa fa-github"
+    }
+  ]

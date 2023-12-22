@@ -1,0 +1,23 @@
+{
+    "main": {
+      "name": "Masoud Merzaye",
+      "description": "I am a full-stack developer, i have rich experiance in front-end and back-end developing, i am also a UX/UI designer",
+      "image": "/images/me.jpg",
+      "bio": "I'm a full-stack Developer and UI/UX Designer with 7 years of professional experience. I'm interested in all kinds of visual communication, but my major focus is on Web Developing and Designing, mobile & tablet interfaces. i do  love building user-friendly websites and web apps .",
+      "contactmessage": "Are you looking for a Web-Developer, Designer , UI/UX Designer? Great? All you need is to share your Idea with me! Let's get in touch!",
+      "email": "masoudmerzaye@gmail.com",
+      "phone": "(+1) 858 844 9666",
+      "facebook": "",
+      "project": "",
+      "address": {
+        "street": "(Your Street)",
+        "city": "(Jakarta)",
+        "state": "(Jakarta)",
+        "zip": "(16750)"
+      },
+      "website": "http://www.throughonline.com",
+      "resumedownload": "#"
+      
+    }
+ 
+  }

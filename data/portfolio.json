@@ -1,26 +1,26 @@
 [
     {
       "title": "DG-Bridge",
-      "category": "An Open Source website use(PHP, HTML, CSS, Bootstrap, Ajax, JQuery, JavaScript",
-      "image": "dgbridge.png",
-      "url": "https://dg-bridge.org/"
+      "category": "PHP, HTML,Bootstrap, Ajax, JQuery, JavaScript",
+      "image": "dgbridge-pr.png",
+      "url": "https://dg-bridge-project.org/"
     },
     {
       "title": "Gambling Site For Client",
-      "category": "My WordPress web design for a Mechanic",
-      "image": "khanmechanic3.png",
+      "category": "HTML, Css, JavaScript, Tailwindcss",
+      "image": "pheabs-pr.png",
       "url": "https://gamblingsites.vercel.app/"
     },
     {
       "title": "Panda Website For Client",
-      "category": "a refugee school based in Indonesia",
-      "image": "hlc.png",
+      "category": "Nextjs, Tailwindcss, frame motion",
+      "image": "panda-pr.png",
       "url": "https://latest-panda-01.vercel.app/"
     },
     {
       "title": "Keyword Cupid",
       "category": "A gsap animation Pruject",
-      "image": "keywordcupid.png",
+      "image": "keywordcupid-pr.png",
       "url": "https://keywordcupid.com/"
     },
     {
@@ -30,9 +30,9 @@
       "url": "http://127.0.0.1:5500/index.html"
     },
     {
-      "title": "RoyalSamudya",
-      "category": "a woocommerce project ",
-      "image": "royalsamudra.png",
+      "title": "NFT Static Website",
+      "category": "HTML, Css, JavaScript, Animation",
+      "image": "nft-pr.png",
       "url": "https://masoudmerzaye2020.github.io/NFT-project/"
     }
   ]

@@ -5,7 +5,7 @@ import Resume from '../sections/resume';
 import Education from '@/sections/education';
 import Experience from '@/sections/experience';
 import Portfolio from '@/sections/portfolio';
-import Contribution from '@/sections/contribution';
+import Contribution from '../sections/contribution';
 
 const Home: NextPage = () => {
   return (
@@ -17,8 +17,6 @@ const Home: NextPage = () => {
       <Resume/>
       <Portfolio/>
       <Contribution/>
-
-      
     </div>
   )
 }

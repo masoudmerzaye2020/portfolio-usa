@@ -5,6 +5,7 @@ import Resume from '../sections/resume';
 import Education from '@/sections/education';
 import Experience from '@/sections/experience';
 import Portfolio from '@/sections/portfolio';
+import Contribution from '@/sections/Contribution';
 
 const Home: NextPage = () => {
   return (
@@ -15,6 +16,8 @@ const Home: NextPage = () => {
       <Experience/>
       <Resume/>
       <Portfolio/>
+      <Contribution/>
+
       
     </div>
   )

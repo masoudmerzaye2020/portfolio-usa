@@ -1,0 +1,44 @@
+[
+    {
+      "title": "Freepik",
+      "category": "",
+      "image": "freepik.png",
+      "url": "https://www.freepik.com/author/roobenmerzaye"
+    },
+    {
+        "title": "Shutter Stock",
+        "category": "",
+        "image": "shutterstock.png",
+        "url": ""
+      },
+      {
+        "title": "Adobe Stock",
+        "category": "",
+        "image": "adobestock.png",
+        "url": ""
+      },
+      {
+        "title": "Vecteezy",
+        "category": "",
+        "image": "vecteezy.png",
+        "url": ""
+      },
+      {
+        "title": "Vector Stock",
+        "category": "",
+        "image": "vectorstock.png",
+        "url": ""
+      },
+      {
+        "title": "pngtree",
+        "category": "",
+        "image": "pngtree.png",
+        "url": ""
+      },
+      {
+        "title": "Pixabay",
+        "category": "",
+        "image": "pixabay.png",
+        "url": ""
+      }
+  ]

@@ -14,11 +14,11 @@ export default function Contribution() {
             return (
               <div
                 key={projects.title}
-                className="lg:w-3/12 md:w-4/12 sm:w-full px-5 py-2 font-paragraph flex justify-center mx-auto"
+                className=" px-5 py-2 font-paragraph flex justify-center mx-auto"
               >
-                  <div class="flex justify-center py-6">
+                  <div class="flex justify-center p-6">
                     <div class="flex flex-col gap-5 text-center">
-                        <img class="rounded-full p-6 bg-gray-50 border-xl border-gray-500 mx-auto" alt={projects.title} src={projectImage} />
+                        <img class="rounded-full p-1 w-36 bg-gray-500 mx-auto" alt={projects.title} src={projectImage} />
                         <div class="flex flex-col gap-3">
                             <h1 class="font-bold text-2xl">{projects.title}</h1>
                             {/* <p class="text-gray-500 text-sm">Senior Full Stack Web Developer (Laravel, Vue, MySql)</p> */}

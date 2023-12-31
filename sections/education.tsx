@@ -21,7 +21,7 @@ export default function Education() {
                                 <div className='flex'>{Education.degree}</div>
                                 <div className=' ml-auto'>----  {Education.graduated}</div>    
                             </div>
-                            <div className="  border-solid border-b-4 mx-auto border-black dark:border-white my-5  ">
+                            <div className="  border-solid border-b-4 mx-auto border-black  my-5  ">
                           </div>   
                         </div>                      
                     )

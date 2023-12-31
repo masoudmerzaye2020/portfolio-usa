@@ -16,6 +16,15 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
+        <link href="https://fonts.googleapis.com/css2?family=Aldrich&display=swap" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@300&family=Orbitron:wght@400;700&display=swap" rel="stylesheet"></link>
+        <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@300&family=Orbitron&display=swap" rel="stylesheet"></link>
+        <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@300&family=Faster+One&family=Nosifer&family=Orbitron:wght@400;700&family=Rye&display=swap" rel="stylesheet"></link>
+        <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@300&family=Faster+One&family=Nosifer&family=Orbitron:wght@400;700&display=swap" rel="stylesheet"></link>
+      </head>
       <body className={inter.className}>{children}</body>
     </html>
   )

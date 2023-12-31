@@ -55,13 +55,6 @@ export default function Hero() {
 
   return (
     <section id="home" className="w-full h-screen static">
-
- 
-
-
-
-
-
       <div className="fixed  mr-5 right-0  mt-60">{renderThemeChanger()}</div>
       <button
         className="fixed mr-5 right-0 p-2 mt-80 rounded-full "

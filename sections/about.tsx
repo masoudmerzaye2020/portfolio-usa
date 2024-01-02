@@ -1,4 +1,5 @@
 import Content from '../data/myinfo.json';
+import SectionHeader from '../components/section-header';
 export default function About() {
     return (
         <section id="about" className='container px-10 mx-auto font-paragraph my-20'>
@@ -12,14 +13,14 @@ export default function About() {
             /> 
           </div>
           <div className="md:w-8/12 sm:w-12/12 p-20 ">
-            <h2 className='text-4xl font-header-h'>About Me</h2>
+            <h2 className='text-4xl font-header-h'> <SectionHeader slogan="About Me" title=""/></h2>
 
-            <p className='py-2'>{Content.main.bio}</p>
+            <p className='py-2'><SectionHeader slogan={Content.main.bio} title="" /></p>
             <div className="flex w-full">
               <div className="twelve columns contact-details">
-                <h2 className='text-2xl pt-4'>Contact Details</h2>
+                <h2 className='text-2xl pt-4'><SectionHeader slogan="Contact Details" title=""/></h2>
                 <p className="address">
-                  <span>{Content.main.name}</span>
+                  <span><SectionHeader slogan={Content.main.name} title=""/></span>
                   <br />
                   {/*   <span>
                        {street}
@@ -27,9 +28,9 @@ export default function About() {
                     {city} {state}, {zip}
                   </span> */}
                   <br />
-                  <span>Contact: {Content.main.phone}</span>
+                  <span><SectionHeader slogan={Content.main.phone} title={""}/></span>
                   <br />
-                  <span>Email: {Content.main.email}</span>
+                  <span><SectionHeader slogan={Content.main.email} title={""}/></span>
                 </p>
               </div>
               <div className="columns download">

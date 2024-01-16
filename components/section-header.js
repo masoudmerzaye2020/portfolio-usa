@@ -9,8 +9,8 @@ export default function SectionHeader({ title, slogan }) {
       x:0, y:0,
       scale: 1,
         transition: { duration: 0.9 } },
-    hidden: { opacity: 0.3, x: 0,
-      y: 70,
+    hidden: { opacity: 0.2, x: -290,
+      y: 10,
       scale: 0,
       rotate: 0,  transition: { duration: 1 } }
   };

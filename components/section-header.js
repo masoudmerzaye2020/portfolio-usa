@@ -30,24 +30,13 @@ export default function SectionHeader({ title, slogan }) {
 
   return (
     <>
-      <motion.div
-      ref={ref}
-      animate={controls}
-      initial="hidden"
-      variants={headeranimation}
-    /*   whileHover={{ scale: 1.04 }} */
-      >  
+      <div>
+  
         {slogan}
-      </motion.div>
-      <motion.div
-      ref={ref}
-      animate={controls}
-      initial="hidden"
-      variants={headeranimation}
-     /*  whileHover={{ scale: 1.04 }} */ className="text-center px-3 text-xl mt-5 w-10/12 items-center justify-center mx-auto   font-headfont">       
-     
+      </div>
+      <div>
         {title}
-      </motion.div>
+      </div>
     </>
   );
 }
